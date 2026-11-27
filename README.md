@@ -1,57 +1,115 @@
-<h1 align="center">Hey <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/refs/heads/main/images/Developer.gif" height="30px" width="30px"> I'm Muhammed Shahzad</h1>
-
-<img src="https://i.pinimg.com/originals/42/b4/22/42b4229a9ec3145edaa895b2415dd720.gif" alt="Banner" width="100%" />
-
-## 📌 About Me
-- 💡 <em> SWE </em>
-
-## 📊 GitHub Stats & Trophies
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/stats?username=shaahz369&theme=github-dark&mode=dark" alt="shaahz369's GitHub Stats" width="49%" />
-  <img src="https://streak-stats.demolab.com/?user=shaahz369&theme=nightowl&hide_border=true&cache_seconds=86400" alt="shaahz369's GitHub Streak" width="49%" />
-</p>
-
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/stack?username=shaahz369&theme=github-dark&mode=dark" alt="Top Languages" />
-</p>
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/stats?username=shaahz369&theme=github-dark&mode=dark" alt="Muhammed Shahzad's GitHub Trophies" />
-</p>
-<p align="center">
-  <img height="280em" src="https://www.gitskins.com/api/section/heatmap?username=shaahz369&theme=github-dark&mode=dark" alt="shaahz369's Activity Graph" />
-</p>
-
-## 🛠️ Languages & Tools
-
-> ## Programming Languages
-<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="48" height="48" style="margin: 4px;" /></p>
-
-> ## Frontend
-<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="48" height="48" style="margin: 4px;" /> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="48" height="48" style="margin: 4px;" /></p>
-
-> ## Backend
-<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="48" height="48" style="margin: 4px;" /></p>
-
-> ## Database
-<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="Redis" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" width="48" height="48" style="margin: 4px;" /></p>
-
-> ## DevOps & Cloud
-<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="AWS" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="Google Cloud" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="Jenkins" width="48" height="48" style="margin: 4px;" /></p>
-
-> ## Tools
-<p align="center"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original.svg" alt="Webpack" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/vitejsdev/vitejsdev-icon.svg" alt="Vite" width="48" height="48" style="margin: 4px;" /></p>
-
-## 🔗 Connect with Me
-<p align="center"><a href="https://www.linkedin.com/in/your-handle" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/LinkedIN.svg" alt="LinkedIN" width="40" height="40" style="margin: 0 8px;"/></a> <a href="mailto:you@example.com" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Gmail.svg" alt="Gmail" width="40" height="40" style="margin: 0 8px;"/></a></p>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://www.gitskins.com/api/section/heatmap?username=shaahz369&theme=github-dark&mode=dark" />
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=shaahz369&theme=github-dark&mode=dark" />
-  <img alt="github-snake" src="https://www.gitskins.com/api/section/heatmap?username=shaahz369&theme=github-dark&mode=dark" />
-</picture>
-
 <div align="center">
-  <!---->
+
+<img src="./assets/aquarium-banner.svg" width="100%" alt="Animated deep-ocean aquarium banner: Muhammed Shahzad, Software Support Engineer">
+
+<h3>Software, AI, and everything in between</h3>
+
+<p>
+Software Support Engineer building Zoho and Odoo automations at Overt Nexus.<br>
+Computer Science and Engineering graduate from CUSAT, with hands-on ML and AI project experience.<br>
+Growing toward development and engineering-focused work.
+</p>
+
 </div>
 
+<img src="./assets/wave-divider.svg" width="100%" alt="">
 
+## Depth 01 — About Me
+
+- **Role:** Software Support Engineer at Overt Nexus, working on Zoho Creator and Odoo development and automation
+- **Education:** B.Tech in Computer Science and Engineering, Cochin University of Science and Technology (CUSAT), 2022 – 2026
+- **Earlier experience:** ML Engineer Intern at Strokx Technologies (2025) and AI Intern at CSRBOX (2024)
+- **Certifications:** HackerRank Python (Basic), SQL (Basic) and SQL (Intermediate)
+- **Practice:** 40 LeetCode problems solved
+- **Location:** Kerala, India
+
+<img src="./assets/wave-divider.svg" width="100%" alt="">
+
+## Depth 02 — Tech Stack
+
+**Business platforms**
+
+![Zoho Creator](https://img.shields.io/badge/Zoho%20Creator-0b3a5b?style=for-the-badge)
+![Zoho CRM](https://img.shields.io/badge/Zoho%20CRM-0b3a5b?style=for-the-badge)
+![Zoho Books](https://img.shields.io/badge/Zoho%20Books-0b3a5b?style=for-the-badge)
+![Zoho Analytics](https://img.shields.io/badge/Zoho%20Analytics-0b3a5b?style=for-the-badge)
+![Zoho Commerce](https://img.shields.io/badge/Zoho%20Commerce-0b3a5b?style=for-the-badge)
+![Odoo](https://img.shields.io/badge/Odoo-0b3a5b?style=for-the-badge)
+
+**Languages and scripting**
+
+![Python](https://img.shields.io/badge/Python-0e7490?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-0e7490?style=for-the-badge&logo=javascript&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-0e7490?style=for-the-badge)
+![Deluge](https://img.shields.io/badge/Deluge-0e7490?style=for-the-badge)
+![Liquid](https://img.shields.io/badge/Liquid-0e7490?style=for-the-badge)
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-0e7490?style=for-the-badge&logo=jupyter&logoColor=white)
+
+**Areas of work**
+
+![Workflow Automation](https://img.shields.io/badge/Workflow%20Automation-115e59?style=for-the-badge)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-115e59?style=for-the-badge)
+![Neural Networks](https://img.shields.io/badge/Neural%20Networks-115e59?style=for-the-badge)
+![Chatbots](https://img.shields.io/badge/Chatbots%20%7C%20IBM%20Watson-115e59?style=for-the-badge)
+![Blockchain](https://img.shields.io/badge/Blockchain-115e59?style=for-the-badge)
+
+<p align="center">
+  <img alt="Languages used across my repositories" src="https://www.gitskins.com/api/section/stack?username=shaahz369&theme=github-dark&mode=dark">
+</p>
+
+<img src="./assets/wave-divider.svg" width="100%" alt="">
+
+## Depth 03 — GitHub Statistics
+
+<p align="center">
+  <img width="49%" alt="shaahz369's GitHub stats" src="https://www.gitskins.com/api/section/stats?username=shaahz369&theme=github-dark&mode=dark">
+  <img width="49%" alt="shaahz369's GitHub streak" src="https://streak-stats.demolab.com/?user=shaahz369&background=031A33&border=0E7490&stroke=0E7490&ring=22D3EE&fire=2DD4BF&currStreakNum=E6FDFF&sideNums=E6FDFF&currStreakLabel=22D3EE&sideLabels=5EEAD4&dates=94A3B8&cache_seconds=86400">
+</p>
+
+<p align="center">
+  <img alt="shaahz369's contribution heatmap" src="https://www.gitskins.com/api/section/heatmap?username=shaahz369&theme=github-dark&mode=dark">
+</p>
+
+<img src="./assets/wave-divider.svg" width="100%" alt="">
+
+## Depth 04 — Featured Projects
+
+**Repositories**
+
+| Project | Description | Built with |
+| :-- | :-- | :-- |
+| [**Rainfall_Prediction_Classifier**](https://github.com/shaahz369/Rainfall_Prediction_Classifier) | Machine learning model that predicts rainfall in Australia from weather data. | Jupyter Notebook |
+| **Aircraft_Damage_Detection_Sys…** | AI system for detecting aircraft damage. | Jupyter Notebook |
+| [**ibm-watson-chatbot**](https://github.com/shaahz369/ibm-watson-chatbot) | AI-powered chatbot developed with IBM Watson Assistant. | IBM Watson Assistant |
+| [**mnist-tf-nn**](https://github.com/shaahz369/mnist-tf-nn) | Neural network for handwritten digit recognition on the MNIST dataset. | Jupyter Notebook |
+| [**Avault-CRS**](https://github.com/shaahz369/Avault-CRS) | Blockchain-powered anonymous crime reporting system. Third-year team project. | JavaScript, Blockchain |
+
+**Professional work** <sub>(source is not public)</sub>
+
+| Project | Description | Built with |
+| :-- | :-- | :-- |
+| **Zoho CRM edit sync** | Two-way edit synchronisation across Leads, Recces, Designs, Quotes, Sales Orders and Work Orders, including their item tables. | Zoho CRM, Deluge |
+| **Zoho Books invoice rate validation** | Custom NRP item field, with a rule that blocks an invoice from saving when a line's rate exceeds the item's NRP. | Zoho Books |
+| **Zoho Commerce storefront** | Retail storefront with a customised theme and custom Liquid sections. | Zoho Commerce, Liquid |
+| **Zoho Analytics target dashboards** | Department-wise target report dashboards. | Zoho Analytics |
+
+<img src="./assets/wave-divider.svg" width="100%" alt="">
+
+## Depth 05 — Interests and Learning
+
+- Moving from support work toward development and automation engineering
+- Python and Django, currently working through Django signals and project structure
+- AI and data science with Python, building on my ML and AI internships and projects
+- SQL and problem solving through HackerRank and LeetCode practice
+
+<img src="./assets/wave-divider.svg" width="100%" alt="">
+
+## Depth 06 — Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/shahzad-muhammed/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-0e7490?style=for-the-badge"></a>
+  <a href="muhammedshahzad3291@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-Get%20in%20touch-115e59?style=for-the-badge"></a>
+  <a href="https://github.com/shaahz369"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-Follow-0b3a5b?style=for-the-badge"></a>
+</p>
+
+<img src="./assets/aquarium-footer.svg" width="100%" alt="Animated underwater footer: Thanks for diving in">
